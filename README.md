@@ -20,5 +20,5 @@ This is a portfolio of my work for the Lougheed Learning Commons at SUNY Potsdam
 | ![](Hands.jpg) |
 | -------------- |
 
-| ![](./waves/IMG_2049.png) | ![](./waves/IMG_2050.png) | ![](./waves/IMG_2051.png) |
+| ![](./waves/IMG_2049.PNG) | ![](./waves/IMG_2050.PNG) | ![](./waves/IMG_2051.PNG) |
 | - | - | - |
